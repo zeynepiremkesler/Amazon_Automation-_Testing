@@ -1,7 +1,7 @@
 # Amazon Automation Test Project 🛒
 
 ## 📌 Project Description
-This project includes automation tests performed on Amazon Turkey using Python and Selenium.
+This project includes automation tests performed on Amazon using Python and Selenium.
 The tests are written following the POM (Page Object Model) structure.
 
 ---
