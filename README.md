@@ -1,2 +1,14 @@
-# Amazon_Automation-_Testing
-This project uses Python and Selenium to automate tests for Amazon. It follows Page Object Model (POM) architecture, testing scenarios like product search, adding/removing items from the cart, and navigating back to the homepage. Developed with unittest and supports multi-browser testing.
+Amazon Automation Test Project 🛒
+📌 Project Description
+This project includes automation tests performed on Amazon Turkey using Python and Selenium. The tests are written following the POM (Page Object Model) structure.
+
+🛠 Technologies Used
+Python 🐍
+Selenium 🏎️
+unittest (Python Test Framework)
+WebDriver Manager
+Page Object Model (POM)
+📋 Installation
+Install Required Dependencies Run the following command in the terminal to install dependencies:
+
+pip install -r requirements.txt
